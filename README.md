@@ -10,7 +10,7 @@
 <h3 align="center">On a Journey to become a great Blackhat Hacker...<p align="right"></h3> -->
 
 
-<img width="28%" align='right' src="https://i.pinimg.com/originals/25/c3/b7/25c3b7e056ec7bd21dbd69fd93879aa7.gif">
+<img width="20%" align='right' src="https://i.pinimg.com/originals/25/c3/b7/25c3b7e056ec7bd21dbd69fd93879aa7.gif">
 
 
 <h2 align="left">
