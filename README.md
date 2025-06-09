@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Hex
 
 <div align="center">
-  <img src="https://github.com/ast4aaaa/ast4aaaa/hotz-hacker" alt="Suggestions Bot Banner" width="600"/>
+  <img src="https://github.com/ast4aaaa/ast4aaaa/hotz-hacker.gif" alt="Suggestions Bot Banner" width="600"/>
 
 ## 🛠️ Technologies & Tools
 
