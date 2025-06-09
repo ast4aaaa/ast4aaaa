@@ -36,6 +36,6 @@
   
 [![Discord](https://img.shields.io/badge/..%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/9hex_)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ast4aaaa)
-[![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://hexno1.netlify.app) target: "blank_"
+[![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://hexno1.netlify.app)
 
 </div>
